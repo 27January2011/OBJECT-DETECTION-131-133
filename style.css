@@ -1,0 +1,29 @@
+.header{
+    color: black;
+    font-size: 30px;
+    box-shadow: 5px 5px 5px #ff00d4;
+    font-family: "Sofia", sans-serif;
+    background: linear-gradient(to right, #7f00ff, #e100ff);
+}
+
+.header:hover{
+    width: 220px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    background: linear-gradient(to right, #00FFAD, #00B8BA, #6EE2F5, #6454F0, #3499FF, #3A3985);
+}
+
+.link {
+    font-size: 20px;
+    background: white;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
